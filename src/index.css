@@ -1,0 +1,4 @@
+@import "tailwindcss";
+/* // src/main.jsx və ya index.css daxilində */
+@import "slick-carousel/slick/slick.css";
+/* @import "slick-carousel/slick/slick-theme.css"; */
